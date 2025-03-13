@@ -1,3 +1,3 @@
-<h1>Desafio Amigo Secreto </h1>
+<h1 align="center"> Proyecto Amigo Secreto </h1>
 
--Estado: En desarrollo 
+
